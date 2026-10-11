@@ -12,6 +12,9 @@ In case you're **that** uncultured though, a retro classic shmump is a game wher
   <li>Official Documentation </li>
   <li>Nonexistent brain</li>
 
+## How to run it
+  Just download the .exe file from the repo, and you're good to go.
+
 ## What I learned
   <li>Basic Player movement </li>
   <li>Idle and moving animations based on input </li>
@@ -21,8 +24,8 @@ In case you're **that** uncultured though, a retro classic shmump is a game wher
   <li>Basic UI screen for gameplay settings </li>
   <li>Collision</li>
 
-##What I struggled with
-  To be perfectly honest, I struggle with math and physics concept, which is kind of bad considering this is game dev? However, I made sure to not rush the process and actually try to understand what I was doing, instead of blindly following along; as one does in Tutorial Hell.
+## What I struggled with
+  To be perfectly honest, I struggle with math and physics concept, which is kind of bad considering this is game dev? However, I made sure to not rush the process and actually try to understand what I     was doing, instead of blindly following along; as one does in Tutorial Hell.
   Overall, it really wasn't that hard, but I did have to get used with the timers and especially functions like start and _process().
 
   It was a really fun project! One step closer, or should I say, one game closer to making an RPG in honor of Pixl.
